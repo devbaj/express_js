@@ -1,0 +1,5 @@
+1. have root route render form view (GET)
+2. have form post data to separate route (POST)
+3. redirect user to show page
+4. render show page with user's input data, obtained from session (GET)
+5. allow user to return to root
